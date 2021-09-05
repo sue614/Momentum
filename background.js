@@ -27,3 +27,4 @@ document.body.appendChild(bgImage);
 // append나 prepend를 사용해도 가능하고, append를 사용하면 body 맨뒤에
 // 위치하고, prepend 사용하면 body 맨윗줄로 오게된다.
 
+element.style.background: `url("https://sue614.github.io/Momentum/src/img/${list[idx]}")`
