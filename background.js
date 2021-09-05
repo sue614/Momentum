@@ -6,8 +6,8 @@ const images = [
     "./img/4.jpg",
     "./img/5.jpg",
     "./img/6.jfif",
-    "https://github.com/sue614/Momentum/blob/main/7.jpg?raw=true"
-] //실제 PC에 저장되어 있는 이미지 이름
+    "https://sue614.github.io/Momentum/img/img/7.jpg"
+]
 
 
 const todayImage = images[Math.floor(Math.random()*images.length)];
