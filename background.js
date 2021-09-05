@@ -6,7 +6,7 @@ const images = [
     "./img/4.jpg",
     "./img/5.jpg",
     "./img/6.jfif",
-    "./img/7.jpg"
+    "https://github.com/sue614/Momentum/blob/main/7.jpg?raw=true"
 ] //실제 PC에 저장되어 있는 이미지 이름
 
 
