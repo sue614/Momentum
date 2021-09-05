@@ -14,7 +14,7 @@ const todayImage = images[Math.floor(Math.random()*images.length)];
 
 const bgImage = document.createElement("img");
 
-bgImage.src = `Momentum/img/$todayImage`;
+bgImage.src = `Momentum/img/${todayImage}`;
 
 document.body.appendChild(bgImage);
 
