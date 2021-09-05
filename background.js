@@ -1,12 +1,12 @@
 const images = [
-    "/img/0.jpg",
-    "/img/1.jpeg",
-    "/img/2.jpg",
-    "/img/3.jpeg",
-    "/img/4.jpg",
-    "/img/5.jpg",
-    "/img/6.jfif",
-    "/img/7.jpg"
+    "0.jpg",
+    "1.jpeg",
+    "2.jpg",
+    "3.jpeg",
+    "4.jpg",
+    "5.jpg",
+    "6.jfif",
+    "7.jpg"
 ]
 
 
