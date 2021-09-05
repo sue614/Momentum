@@ -19,7 +19,7 @@ const bgImage = document.createElement("img");
 // 이렇게 코드를 작성하면 브라우정[서 실행 시, <img>태그가 생긴다.
 
 
-bgImage.src = `img/${todayImage}`;
+bgImage.src = `/img/${todayImage}`;
 // 생성된 <img>태그에 이미지 소스를 추가한다.
 
 document.body.appendChild(bgImage);
