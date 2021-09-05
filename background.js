@@ -1,12 +1,12 @@
 const images = [
-    "/img/0.jpg",
-    "/img/1.jpeg",
-    "/img/2.jpg",
-    "/img/3.jpeg",
-    "/img/4.jpg",
-    "/img/5.jpg",
-    "/img/6.jfif",
-    "/img/7.jpg"
+    "./img/0.jpg",
+    "./img/1.jpeg",
+    "./img/2.jpg",
+    "./img/3.jpeg",
+    "./img/4.jpg",
+    "./img/5.jpg",
+    "./img/6.jfif",
+    "./img/7.jpg"
 ] //실제 PC에 저장되어 있는 이미지 이름
 
 
